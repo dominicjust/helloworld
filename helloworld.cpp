@@ -1,5 +1,6 @@
 int main()
 {
-  return 0;
+  int i = 0;
+  return i++;
 }
 // end of file
